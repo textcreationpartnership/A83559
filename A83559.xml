@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two ordinances of the Lords and Commons assembled in Parliament. One, that all sellers of wines who shall pay the excise, shall and may take for all Spanish vvines sold, for every quart foureteene pence; and for all French vvines eight pence a quart, and so proportionably after that rate. The other, concerning Northampton, for the raising of money for the space of six moneths, for the defence and preservation of the said county from plunder and ruine. Die Lunæ, 9 Octob. 1643. Ordered by the Lords and Commons assembled in Parliament that these two ordinances shall be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83559</idno><idno type="EEBO-CITATION">99869326</idno>
+  <idno type="VID">121701</idno>
+  <idno type="EEBO-PROQUEST">2240949095</idno>
+  
+            <idno type="STC">Wing E2415</idno>
+            <idno type="STC">Thomason E70_11</idno>
+            <idno type="STC">ESTC R21054</idno>
+            <idno type="PROQUEST">99869326</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99869326e"/>
+            <note>(EEBO-TCP ; phase 2, no. A83559)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121701)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E70[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two ordinances of the Lords and Commons assembled in Parliament. One, that all sellers of wines who shall pay the excise, shall and may take for all Spanish vvines sold, for every quart foureteene pence; and for all French vvines eight pence a quart, and so proportionably after that rate. The other, concerning Northampton, for the raising of money for the space of six moneths, for the defence and preservation of the said county from plunder and ruine. Die Lunæ, 9 Octob. 1643. Ordered by the Lords and Commons assembled in Parliament that these two ordinances shall be forthwith printed and published. J. Brown Cler. Parliamentorum.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Wright in the Old-baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 10. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Wine and wine making --  Taxation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Northamptonshire (England) --  History --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Finance --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121701:1"/>
+            <p>TWO ORDINANCES OF THE LORDS and COMMONS Assembled in Parliament.</p>
+            <p>ONE, That all Sellers of Wines who shall pay the Excise, shall and may take for all Spanish VVines sold, for every Quart foureteene pence; and for all French VVines eight pence a Quart, and so proportionably after that Rate.</p>
+            <p>THE OTHER, Concerning <hi>Northampton,</hi> for the raising of money for the space of six moneths, for the defence and preservation of the said County from Plunder and ruine.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Lunae, 9 <hi>Octob.</hi> 1643.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Lords and Commons assembled in Parliament that these two Ordinances shall be forthwith printed and published.</p>
+                        <closer>
+                           <signed>J. Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Iohn Wright</hi> in the Old-baily, Octob. 10. 1643.</p>
+            <pb facs="tcp:121701:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="1" facs="tcp:121701:2"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae 9. October 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a late Ordinance of both Houses of Parliament for a charge of Excise or new Impost to be set upon the Commodities in a Schedule thereunto annexed, contained, for the supply of the great Affairs of this Kingdome, whereby it is amongst other things provided, That the sellers of Wine, who are chargeable with the Excise, shall be allowed the same in the price thereof upon the sale; but for that no certaine price is set downe in the said Ordinance for Wines to be sold at, Be it now declared and ordained by the Lords and Commons in Parliament, That the Sellers of Wines, who shall pay the Excise, shall or may take for all Spanish Wines sold, for every quart fourteen pence; and for all French Wines sold, eight pence for
+<pb n="2" facs="tcp:121701:3"/> every quart, and so proportionably after that rate. Which said prices shall or may be taken without incurring the penalties of any Law or Statute, so as the due Measures and As<g ref="char:EOLhyphen"/>sises be otherwise kept and observed, as by the Law is provided, and the Wines to be good and wholsome, and merchantable.</p>
+            <p>And be it further Declared and Ordained, That Master Alderman <hi>Langham,</hi> who was named a Commissioner in the said former Ordinance, in respect of his other great and necessary occasions, shall be wholly dischar<g ref="char:EOLhyphen"/>ged of the said service, and the other seven Commissioners shall have power to execute the said Ordinance, as if the said Alderman <hi>Langham</hi> had not beene named therein. And further, That the respective Commissioners of Excize, or the major part of them, shall have power to call before them any person or persons whom they shall thinke fit, being subject to the said Ordinance for any matter touching the same, or that can testifie or in<g ref="char:EOLhyphen"/>forme any thing materiall to the said ser<g ref="char:EOLhyphen"/>vice: And shall have power to grant their Warrants for the bringing in of such per<g ref="char:EOLhyphen"/>sons as shall wilfully refuse or neglect to come
+<pb n="3" facs="tcp:121701:3"/> before them upon warning, and to punish such persons for their contempt or disobedi<g ref="char:EOLhyphen"/>ence in that behalfe by Fine or Amercement, to be levied, and imployed in such manner as is appointed for the other penalties by the said Ordinance, so as the same doe not exceede five pounds for any one offence.</p>
+         </div>
+         <div type="Parliamentary_ordinance">
+            <pb n="4" facs="tcp:121701:4"/>
+            <opener>
+               <dateline>
+                  <date>Die Lunae, 9 Octob. 1643.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is Ordained by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament assembled, That <hi>Edward Mountague, Wil. Fitzwilliams,</hi> Esquires; <hi>Sir John Dreyden, Sir Chri<g ref="char:EOLhyphen"/>stopher Yelverton, Sir Gilbert Pikering,</hi> Baronets; <hi>Zouch Tate, John Crew, Richard Knightley,</hi> Esquires, Mem<g ref="char:EOLhyphen"/>bers of the House of Commons; <hi>Sir Rowland Saint Iohn,</hi> Knight of the Bath; <hi>Sir Edward Nicols, Sir Iohn Norwich,</hi> Baronets; <hi>Sir Humphrey Orme, Sir Richard Samwell, Sir Samuel Dan<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rs,</hi> Knights; <hi>Richard Knightley</hi> of Fawzley, <hi>Robert Mildmay, Iohn Barnard, Edward Harby, Edward Only, Edward Bagshaw, Iohn Cartwright, Philip Holman, Richard Samuell, Ed<g ref="char:EOLhyphen"/>ward Farmer, Iohn VVirley, Edward Shugborough, Ed<g ref="char:EOLhyphen"/>ward H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nbur<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, VVilliam Lisle, Iohn Blincoe, Thomas Elmes, Iohn Claypoole, Francis Quarles,</hi> and <hi>Iohn Norton</hi> Esquires▪ and the Major of the Towne of <hi>Northampton</hi> for the time being, or any three or more of them, residing in the towne <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f <hi>Northampton,</hi> for the furnishing of Arms and Amm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tion, making of For<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>if<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cations, payment of
+<pb n="5" facs="tcp:121701:4"/> the Garrisons, Officers, and Souldiers, and other publike necessary charges for the defence and preservation of the said County from plunder and ruine, shall or may from time to time, during the space of six moneths next after the date hereof, raise in the said County such summes of money as shall be by them or any thrée or more of them thought necessary for the uses aforesaid: the same to be rated and assessed in like sort as was the 400000 pound, granted by Act this present Parliament, not exceeding the summe of six hundred pounds a wéeke; And for the better leavying of the said summes of money, the said Committée or any thrée or more of them, then residing in the Towne of <hi>Northampton,</hi> shall or may nominate and appoint Treasurers, Collectors, and Assessors in the said County, for Assessing, Receiving, and Collecting the said summes of money, and shall and may grant Warrants, under their hands in writing, to any Coustable, or other person or persons, aswell Souldiers when need shall require, as others, to raise and levy the said summes so to be assessed and taxed, as aforesaid, upon all such persons, upon whom any such summes shall be so assessed, and set, that doe refuse or neglect to pay the same by way of distresse and sale of the Goods of the persons so assessed, and refusing: And in case any opposition be made, the said Committée or any thrée or more of them residing in <hi>Northampton</hi> as aforesaid, shall or may commit such person or persons re<g ref="char:EOLhyphen"/>fusing to pay as aforesaid, to some common Goale within the said County, there to remaine untill payment made of such summe and summes of money as aforesaid, for which summes so to be raised, the said Committée shall be accountable to both Houses of Parliament, &amp; to none else. And if any shall refuse or neglect the execution of such war<g ref="char:EOLhyphen"/>rants,
+<pb n="6" facs="tcp:121701:5"/> as shall be directed to them by vertue of this Ordi<g ref="char:EOLhyphen"/>nance, It shall be lawfull for the said Committée residing as aforesaid, or any thrée of them, to punish such person refusing or neglecting, by fine not excéeding five pounds to be levyed as aforesaid: Provided that where it shall ap<g ref="char:EOLhyphen"/>peare to the said Committée, or any two of them, residing as aforesaid, that any person hath béen over-rated to the Tax upon the Bill of 400000 pound, an abatement may be made in the Tax of such person, by the said Committee or any two of them residing as aforesaid, according to their discretions. Provided also, that this present Ordi<g ref="char:EOLhyphen"/>nance shall be no hinderance to Taxes made by any former Ordinance.</p>
+            <closer>
+               <signed>I. Brown Cler. Parliamentorum.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
